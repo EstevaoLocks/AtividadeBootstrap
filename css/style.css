@@ -1,0 +1,36 @@
+.img1 {
+    width: 100%;
+    border-radius: 7px;
+}
+
+.titulo {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.rodape {
+    background-color: darkgray;
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 6rem;
+}
+
+.progress {
+    margin-bottom: 1.75rem;
+}
+
+.card {
+    margin-bottom: 2rem;
+}
+
+.colcard {
+    display: flex;
+    justify-content: center;
+}
+
+.colsec1 {
+    display: flex;
+    align-items: center;
+}
